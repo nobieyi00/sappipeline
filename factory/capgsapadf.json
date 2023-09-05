@@ -1,0 +1,9 @@
+{
+	"name": "capgsapadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f9479de1-0c7d-4858-863d-e78f9ffafe50",
+		"tenantId": "004c5b07-ce82-49b4-ba54-b08c0e4a40ce"
+	}
+}
